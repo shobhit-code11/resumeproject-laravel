@@ -9,4 +9,5 @@
         <a href="{{route('skill')}}" class="nav-link">Skill</a>
         <a href="{{route('contact')}}" class="nav-link">Contact</a>
     </nav>
+    for checking
 </div>
